@@ -1,185 +1,185 @@
-New,Orig
-recNo,record - Record number
-age,"Q1r1 - To begin, what is your age?"
-gender,Q4 - What is your gender?
-ageGrp,age - you are...
-state,Q2 - In which state do you currently reside?
-region,region - Region
-status,QNEW3 - What is your employment status?
-ethnicity,Q5 - Which category best describes your ethnicity?
-childAtHome,QNEW1 - Do you have children living in your home (excluding yourself if you are under 18)?
-childAtHome_0-4,QNEW2 - How old are the children in your home?-0-4 years
-childAtHome_5-9,QNEW2 - How old are the children in your home?-5-9 years
-childAtHome_10-13,QNEW2 - How old are the children in your home?-10-13 years
-childAtHome_14-18,QNEW2 - How old are the children in your home?-14-18 years
-childAtHome_19-25,QNEW2 - How old are the children in your home?-19-25 years
-childAtHome_26+,QNEW2 - How old are the children in your home?-26+ years
-childAtHome_unsure,QNEW2 - How old are the children in your home?-Don't Know
-HHIncome,"Q6 - Into which of the following categories does your total annual household income fall before taxes? Again, we promise to keep this, and all your answers, completely confidential."
-ownsTV,Q8 - Which of the following media or home entertainment equipment does your household own?-Flat panel television
-ownsDVR,Q8 - Which of the following media or home entertainment equipment does your household own?-Digital video recorder (DVR)
-ownsStreamingBox,Q8 - Which of the following media or home entertainment equipment does your household own?-Streaming media box or over-the-top box
-ownsStreamingDrive,Q8 - Which of the following media or home entertainment equipment does your household own?-Portable streaming thumb drive/fob
-ownsDigTVAntenna,Q8 - Which of the following media or home entertainment equipment does your household own?-Over-the-air digital TV antenna (for free access to network broadcast without pay TV subscription)
-ownsDVD,Q8 - Which of the following media or home entertainment equipment does your household own?-Blu-ray disc player/DVD player
-ownsGaming,Q8 - Which of the following media or home entertainment equipment does your household own?-Gaming console
-ownsPortableGaming,Q8 - Which of the following media or home entertainment equipment does your household own?-Portable video game player
-ownsRouter,Q8 - Which of the following media or home entertainment equipment does your household own?-Computer network/router in your home for wireless computer/laptop usage
-ownsDesktop,Q8 - Which of the following media or home entertainment equipment does your household own?-Desktop computer
-ownsLaptop,Q8 - Which of the following media or home entertainment equipment does your household own?-Laptop computer
-ownsTablet,Q8 - Which of the following media or home entertainment equipment does your household own?-Tablet
-ownsE-Reader,Q8 - Which of the following media or home entertainment equipment does your household own?-Dedicated e-book reader
-ownsSmartphone,Q8 - Which of the following media or home entertainment equipment does your household own?-Smartphone
-ownsPhone,Q8 - Which of the following media or home entertainment equipment does your household own?-Basic mobile phone (not a smartphone)
-ownsSmartwatch,Q8 - Which of the following media or home entertainment equipment does your household own?-Smart watch
-ownsFitnessBand,Q8 - Which of the following media or home entertainment equipment does your household own?-Fitness band
-ownsVR,Q8 - Which of the following media or home entertainment equipment does your household own?-Virtual reality headset
-ownsDrone,Q8 - Which of the following media or home entertainment equipment does your household own?-Drone
-ownsNA,Q8 - Which of the following media or home entertainment equipment does your household own?-None of the above
-ownsUnsure,Q8 - Which of the following media or home entertainment equipment does your household own?-Don't Know
-willBuyTV,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Flat panel television"
-willBuyDVR,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Digital video recorder (DVR)"
-willBuyStreamingBox,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Streaming media box or over-the-top box"
-willBuyStreamingDrive,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Portable streaming thumb drive/fob"
-willBuyDigTVAntenna,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Over-the-air digital TV antenna (for free access to network broadcast without pay TV subscription)"
-willBuyDVD,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Blu-ray disc player/DVD player"
-willBuyGaming,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Gaming console"
-willBuyPortableGaming,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Portable video game player"
-willBuyRouter,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Computer network/router in your home for wireless computer/laptop usage"
-willBuyDesktop,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Desktop computer"
-willBuyLaptop,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Laptop computer"
-willBuyTablet,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Tablet"
-willbuyE-Reader,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Dedicated e-book reader"
-willBuySmartphone,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Smartphone"
-willBuySmartwatch,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Smart watch"
-willBuyFitnessBand,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Fitness band"
-willBuyVR,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Virtual reality headset"
-willBuyDrone,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Drone"
-willBuyNA,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-None of the above"
-willBuyUnsure,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Don't Know"
-valueTV,"Q11r1 - Flat panel television - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  Th"
-valueDVR,"Q11r2 - Digital video recorder (DVR) - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to ra"
-valueDigTVAntenna,"Q11rNew1 - Over-the-air digital TV antenna (for free access to network broadcast without pay TV subscription) - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most value"
-valueDVD,"Q11r5 - Blu-ray disc player/DVD player - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to"
-valuePortableGaming,"Q11r7 - Portable video game player - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each"
-valueRouter,"Q11r8 - Computer network/router in your home for wireless computer/laptop usage - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most va"
-valueDesktop,"Q11r9 - Desktop computer - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The fir"
-valueLaptop,"Q11r10 - Laptop computer - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The fir"
-valueTablet,"Q11r12 - Tablet - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the orde"
-valueE-Reader,"Q11r14 - Dedicated e-book reader - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in"
-valueSmartphone,"Q11r15 - Smartphone - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in th"
-valuePhone,"Q11r17 - Basic mobile phone (not a smartphone) - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you"
-valueSmartwatch,"Q11r18 - Smart watch - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item i"
-valueFitnessband,"Q11r19 - Fitness band - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order"
-valueVR,"Q11rNew2 - Virtual reality headset - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your sele"
-valueDrone,"Q11rNew3 - Drone - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The first item"
-valuePlaceholder,"Q11r22 - Placeholder - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The first i"
-movieSmartphone,"Q15r1 - Smartphone - Of the time you spend watching movies, what percentage of time do you watch on the following devices?"
-movieTablet,"Q15r2 - Tablet - Of the time you spend watching movies, what percentage of time do you watch on the following devices?"
-movieComputer,"Q15r3 - Laptop/Desktop - Of the time you spend watching movies, what percentage of time do you watch on the following devices?"
-movieTV,"Q15r4 - Television - Of the time you spend watching movies, what percentage of time do you watch on the following devices?"
-sportsSmartphnoe,"Q16r1 - Smartphone - Of the time you spend watching sports, what percentage of time do you watch on the following devices?"
-sportsTablet,"Q16r2 - Tablet - Of the time you spend watching sports, what percentage of time do you watch on the following devices?"
-sportsComputer,"Q16r3 - Laptop/Desktop - Of the time you spend watching sports, what percentage of time do you watch on the following devices?"
-sportsTV,"Q16r4 - Television - Of the time you spend watching sports, what percentage of time do you watch on the following devices?"
-appPhotoVideo,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Photo/video
-appBanking,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Banking
-appFitness,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Fitness/health
-appFoodDrink,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Food/drink
-appRetail,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Retail/shopping
-appNavigation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Navigation
-appSocial,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Social networks
-appReading,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Reading books
-appMusic,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Streaming music
-appVideo,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Streaming video
-appReviews,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Reviews/guides
-appNewsAggregator,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-News consolidator
-appNewspaper,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Newspaper/news broadcaster
-appMagazines,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Magazines
-appDiagnosticUtilities,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Diagnostic/utilities
-appQRReader,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-QR Reader
-appTravel,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Travel
-appTransportation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Transportation
-appLocation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Location
-appLanguage,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Language
-appMovie,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Movie
-appBusiness,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Business
-appGames,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Games
-appProductivity,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Productivity
-appSports,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Sports
-appWeather,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Weather
-appBrowser,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Browser
-appVOIP,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-VOIP
-appDating,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Dating
-appMessaging,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Messaging
-appMobilePayment,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Mobile payment
-appEducation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Education
-appTickets,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Tickets
-appReservations,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Reservations
-appHobby,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Special interest/Hobby apps
-appNA ,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-I do not use any of the above types of apps on a frequent (everyday/weekly) basis.
-appUnsure,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Don't Know
-subsInternet,Q26 - Which of the following subscriptions does your household purchase?-Home internet
-subsLandline,Q26 - Which of the following subscriptions does your household purchase?-Landline telephone
-subsMobileVoice,Q26 - Which of the following subscriptions does your household purchase?-Mobile voice (smartphone or basic mobile phone calling plan)
-subsMobileData,Q26 - Which of the following subscriptions does your household purchase?-Mobile data plan
-subsStreamingVideo,Q26 - Which of the following subscriptions does your household purchase?-Streaming video service
-subsStreamingMusic,Q26 - Which of the following subscriptions does your household purchase?-Streaming music service
-subsGaming,Q26 - Which of the following subscriptions does your household purchase?-Gaming
-subsNews,Q26 - Which of the following subscriptions does your household purchase?-News/Newspaper (print or digital)
-subsMagazine,Q26 - Which of the following subscriptions does your household purchase?-Magazine (print or digital)
-subsNA ,Q26 - Which of the following subscriptions does your household purchase?-None of the above
-subsUnsure,Q26 - Which of the following subscriptions does your household purchase?-Don't Know
-subsValInternet,"Q36r2 - Home internet - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to r"
-subsValLandline,"Q36r3 - Landline telephone - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish"
-subsValMobileVoice,"Q36r4 - Mobile voice - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to ra"
-subsValMobileData,"Q36r5 - Mobile data plan - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish t"
-subsValGaming,"Q36r8 - Gaming - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicki"
-subsValNews,"Q36r9 - News/Newspaper (print or digital) - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the"
-subsValMagazine,"Q36r10 - Magazine (print or digital) - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the orde"
-willPayDoubleInternet,"Q29 - You said that you subscribe to home Internet access, how much more would you be willing to pay to receive double your download speed?"
-prefLiveShow,"Q37r1 - Attending live performances (sporting events, concerts, or stage (musical, dramatic, or other)) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ"
-prevMovie,"Q37r2 - Going to the movies - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections by clicking each item in"
-prevTV,"Q37r3 - Watching television (video content on any device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selec"
-prefMusic,"Q37r4 - Listening to music (using any device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections by cli"
-prefBook,"Q37r5 - Reading books (either physical books or via an e-book reader and/or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most"
-prefMagazine,"Q37r6 - Reading magazines (either printed or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections"
-prefNewspaper,"Q37r7 - Reading newspapers (either printed or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selection"
-prefRadio,"Q37r8 - Listening to the radio (any format and/or device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selec"
-prefVideoGames,"Q37r9 - Playing video games (handhelds, PC, console, mobile/cellular/smartphone, online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the"
-prefSocial,"Q37r10 - Using the Internet for social or personal interests - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your se"
-freqMovRentDVD,"QNEW19r1 - Rent a physical DVD/Blu-ray - Thinking about how you watch movies, how frequently do you do each of the following?"
-freqMovBuyDVD,"QNEW19r2 - Purchase a physical DVD/Blu-ray - Thinking about how you watch movies, how frequently do you do each of the following?"
-freqMovBuyDownload,"QNEW19r3 - Purchase digital video entertainment to download onto your device via online service - Thinking about how you watch movies, how frequently do you do each of the following?"
-freqMovRentDownload,"QNEW19r4 - Rent digital video entertainment where a digital file is downloaded to your device - Thinking about how you watch movies, how frequently do you do each of the following?"
-freqMovStream,"QNEW19r5 - Watch digital video entertainment via an online streaming service - Thinking about how you watch movies, how frequently do you do each of the following?"
-freqMovPayPerView,"QNEW19r6 - Purchase/rent a video via your television service provider's On-Demand or Pay-Per-View service (i.e., via a set-top-box) - Thinking about how you watch movies, how frequently do you do each of the following?"
-freqTVRentDVD,"QNEW20r1 - Rent a physical DVD/Blu-ray - Thinking about how you watch television programming, how frequently do you do each of the following?"
-freqTVBuyDVD,"QNEW20r2 - Purchase a physical DVD/Blu-ray - Thinking about how you watch television programming, how frequently do you do each of the following?"
-freqTVBuyDownload,"QNEW20r3 - Purchase digital video entertainment to download onto your device via online service - Thinking about how you watch television programming, how frequently do you do each of the following?"
-freqTVStream,"QNEW20r4 - Watch digital video entertainment via an online streaming service - Thinking about how you watch television programming, how frequently do you do each of the following?"
-freqTVPayPerView,"QNEW20r5 - Purchase/rent a video via your television service provider's On-Demand or Pay-Per-View service (i.e., via a set-top-box) - Thinking about how you watch television programming, how frequently do you do each of the following?"
-bingeWatch,"QNEW24 - Do you ever ""binge-watch"" television shows, meaning watching three or more episodes of a TV series in one sitting?"
-TVWhileReadWork,Q73r2 - Read for work and/or school - Which are things you typically do while watching your home television system?
-TVWhileReadPleasure,Q73r3 - Read for pleasure - Which are things you typically do while watching your home television system?
-TVWhileWeb,Q73r4 - Browse and surf the Web - Which are things you typically do while watching your home television system?
-TVWhileMicroblog,Q73r5 - Microblogging - Which are things you typically do while watching your home television system?
-TVWhileReadEmail,Q73r6 - Read email - Which are things you typically do while watching your home television system?
-TVWhileWriteEmail,Q73r7 - Write email - Which are things you typically do while watching your home television system?
-TVWhileText,Q73r8 - Text message - Which are things you typically do while watching your home television system?
-TVWhileSocial,Q73r9 - Use a social network - Which are things you typically do while watching your home television system?
-TVWhileCall,Q73r10 - Talk on the phone - Which are things you typically do while watching your home television system?
-TVWhileBrowseProd,Q73r11 - Browse for products and services online - Which are things you typically do while watching your home television system?
-TVWhilePurchaseProd,Q73r12 - Purchase products and services online - Which are things you typically do while watching your home television system?
-TVWhileVideoGames,Q73r13 - Play video games - Which are things you typically do while watching your home television system?
-payNewsForNoAds,"Q39r1 - I would rather pay for news online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A."""
-paySportsforNoAds,"Q39rNEW1 - I would rather pay for sports information online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, c"
-payGamesForNoAds,"Q39rNEW2 - I would rather pay for games online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A."""
-PayMusicForNoAds,"Q39rNEW3 - I would rather pay for music online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A."""
-PayTVForNoAds,"Q39rNEW4 - I would rather pay for TV shows online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A"
-PayMovieForNoAds,"Q39rNEW5 - I would rather pay for movies online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A."""
-infoForTargetAds,"Q39r2 - I would be willing to provide more personal information online if that meant I could receive advertising more targeted to my needs and interests. - Using the scale below, please indicate how much you agree or disagree with the following statements."
-infoIDTheft,"Q39r3 - By providing more personal information online, I am worried about becoming a victim of identity theft. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, cho"
-getNews,Q89 - Which of the following is your most frequently used mechanism to get news?
-target_willing,target_willing
-year,year
+New,Orig,Drop?,Rationale
+recNo,record - Record number,1,"Administrative, not useful"
+age,"Q1r1 - To begin, what is your age?",0,
+gender,Q4 - What is your gender?,0,
+ageGrp,age - you are...,0,
+state,Q2 - In which state do you currently reside?,1,"Going to use region instead, requires less encoding so easier way to work with the data"
+region,region - Region,0,
+status,QNEW3 - What is your employment status?,0,
+ethnicity,Q5 - Which category best describes your ethnicity?,0,
+childAtHome,QNEW1 - Do you have children living in your home (excluding yourself if you are under 18)?,0,
+childAtHome_0-4,QNEW2 - How old are the children in your home?-0-4 years,1,High number of nulls and feels like having children at all is the main point
+childAtHome_5-9,QNEW2 - How old are the children in your home?-5-9 years,1,High number of nulls and feels like having children at all is the main point
+childAtHome_10-13,QNEW2 - How old are the children in your home?-10-13 years,1,High number of nulls and feels like having children at all is the main point
+childAtHome_14-18,QNEW2 - How old are the children in your home?-14-18 years,1,High number of nulls and feels like having children at all is the main point
+childAtHome_19-25,QNEW2 - How old are the children in your home?-19-25 years,1,High number of nulls and feels like having children at all is the main point
+childAtHome_26+,QNEW2 - How old are the children in your home?-26+ years,1,High number of nulls and feels like having children at all is the main point
+childAtHome_unsure,QNEW2 - How old are the children in your home?-Don't Know,1,High number of nulls and feels like having children at all is the main point
+HHIncome,"Q6 - Into which of the following categories does your total annual household income fall before taxes? Again, we promise to keep this, and all your answers, completely confidential.",0,
+ownsTV,Q8 - Which of the following media or home entertainment equipment does your household own?-Flat panel television,0,
+ownsDVR,Q8 - Which of the following media or home entertainment equipment does your household own?-Digital video recorder (DVR),0,
+ownsStreamingBox,Q8 - Which of the following media or home entertainment equipment does your household own?-Streaming media box or over-the-top box,0,
+ownsStreamingDrive,Q8 - Which of the following media or home entertainment equipment does your household own?-Portable streaming thumb drive/fob,0,
+ownsDigTVAntenna,Q8 - Which of the following media or home entertainment equipment does your household own?-Over-the-air digital TV antenna (for free access to network broadcast without pay TV subscription),0,
+ownsDVD,Q8 - Which of the following media or home entertainment equipment does your household own?-Blu-ray disc player/DVD player,0,
+ownsGaming,Q8 - Which of the following media or home entertainment equipment does your household own?-Gaming console,0,
+ownsPortableGaming,Q8 - Which of the following media or home entertainment equipment does your household own?-Portable video game player,0,
+ownsRouter,Q8 - Which of the following media or home entertainment equipment does your household own?-Computer network/router in your home for wireless computer/laptop usage,0,
+ownsDesktop,Q8 - Which of the following media or home entertainment equipment does your household own?-Desktop computer,0,
+ownsLaptop,Q8 - Which of the following media or home entertainment equipment does your household own?-Laptop computer,0,
+ownsTablet,Q8 - Which of the following media or home entertainment equipment does your household own?-Tablet,0,
+ownsE-Reader,Q8 - Which of the following media or home entertainment equipment does your household own?-Dedicated e-book reader,0,
+ownsSmartphone,Q8 - Which of the following media or home entertainment equipment does your household own?-Smartphone,0,
+ownsPhone,Q8 - Which of the following media or home entertainment equipment does your household own?-Basic mobile phone (not a smartphone),0,
+ownsSmartwatch,Q8 - Which of the following media or home entertainment equipment does your household own?-Smart watch,0,
+ownsFitnessBand,Q8 - Which of the following media or home entertainment equipment does your household own?-Fitness band,0,
+ownsVR,Q8 - Which of the following media or home entertainment equipment does your household own?-Virtual reality headset,0,
+ownsDrone,Q8 - Which of the following media or home entertainment equipment does your household own?-Drone,0,
+ownsNA,Q8 - Which of the following media or home entertainment equipment does your household own?-None of the above,0,
+ownsUnsure,Q8 - Which of the following media or home entertainment equipment does your household own?-Don't Know,0,
+willBuyTV,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Flat panel television",0,
+willBuyDVR,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Digital video recorder (DVR)",0,
+willBuyStreamingBox,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Streaming media box or over-the-top box",0,
+willBuyStreamingDrive,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Portable streaming thumb drive/fob",0,
+willBuyDigTVAntenna,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Over-the-air digital TV antenna (for free access to network broadcast without pay TV subscription)",0,
+willBuyDVD,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Blu-ray disc player/DVD player",0,
+willBuyGaming,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Gaming console",0,
+willBuyPortableGaming,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Portable video game player",0,
+willBuyRouter,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Computer network/router in your home for wireless computer/laptop usage",0,
+willBuyDesktop,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Desktop computer",0,
+willBuyLaptop,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Laptop computer",0,
+willBuyTablet,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Tablet",0,
+willbuyE-Reader,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Dedicated e-book reader",0,
+willBuySmartphone,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Smartphone",0,
+willBuySmartwatch,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Smart watch",0,
+willBuyFitnessBand,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Fitness band",0,
+willBuyVR,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Virtual reality headset",0,
+willBuyDrone,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Drone",0,
+willBuyNA,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-None of the above",0,
+willBuyUnsure,"Q10 - Of those products you indicated you do not currently own, which of the following do you plan to purchase in the next 12 months?-Don't Know",0,
+valueTV,"Q11r1 - Flat panel television - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  Th",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueDVR,"Q11r2 - Digital video recorder (DVR) - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to ra",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueDigTVAntenna,"Q11rNew1 - Over-the-air digital TV antenna (for free access to network broadcast without pay TV subscription) - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most value",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueDVD,"Q11r5 - Blu-ray disc player/DVD player - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valuePortableGaming,"Q11r7 - Portable video game player - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueRouter,"Q11r8 - Computer network/router in your home for wireless computer/laptop usage - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most va",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueDesktop,"Q11r9 - Desktop computer - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The fir",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueLaptop,"Q11r10 - Laptop computer - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The fir",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueTablet,"Q11r12 - Tablet - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the orde",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueE-Reader,"Q11r14 - Dedicated e-book reader - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueSmartphone,"Q11r15 - Smartphone - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in th",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valuePhone,"Q11r17 - Basic mobile phone (not a smartphone) - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueSmartwatch,"Q11r18 - Smart watch - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item i",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueFitnessband,"Q11r19 - Fitness band - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueVR,"Q11rNew2 - Virtual reality headset - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your sele",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valueDrone,"Q11rNew3 - Drone - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The first item",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+valuePlaceholder,"Q11r22 - Placeholder - Of the products you indicated you own, which [totalcount] do you value the most? Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to rank.  The first i",1,"Extremely high values of null. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+movieSmartphone,"Q15r1 - Smartphone - Of the time you spend watching movies, what percentage of time do you watch on the following devices?",0,
+movieTablet,"Q15r2 - Tablet - Of the time you spend watching movies, what percentage of time do you watch on the following devices?",0,
+movieComputer,"Q15r3 - Laptop/Desktop - Of the time you spend watching movies, what percentage of time do you watch on the following devices?",0,
+movieTV,"Q15r4 - Television - Of the time you spend watching movies, what percentage of time do you watch on the following devices?",0,
+sportsSmartphnoe,"Q16r1 - Smartphone - Of the time you spend watching sports, what percentage of time do you watch on the following devices?",0,
+sportsTablet,"Q16r2 - Tablet - Of the time you spend watching sports, what percentage of time do you watch on the following devices?",0,
+sportsComputer,"Q16r3 - Laptop/Desktop - Of the time you spend watching sports, what percentage of time do you watch on the following devices?",0,
+sportsTV,"Q16r4 - Television - Of the time you spend watching sports, what percentage of time do you watch on the following devices?",0,
+appPhotoVideo,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Photo/video,0,
+appBanking,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Banking,0,
+appFitness,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Fitness/health,0,
+appFoodDrink,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Food/drink,0,
+appRetail,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Retail/shopping,0,
+appNavigation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Navigation,0,
+appSocial,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Social networks,0,
+appReading,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Reading books,0,
+appMusic,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Streaming music,0,
+appVideo,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Streaming video,0,
+appReviews,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Reviews/guides,0,
+appNewsAggregator,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-News consolidator,0,
+appNewspaper,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Newspaper/news broadcaster,0,
+appMagazines,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Magazines,0,
+appDiagnosticUtilities,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Diagnostic/utilities,0,
+appQRReader,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-QR Reader,0,
+appTravel,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Travel,0,
+appTransportation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Transportation,0,
+appLocation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Location,0,
+appLanguage,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Language,0,
+appMovie,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Movie,0,
+appBusiness,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Business,0,
+appGames,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Games,0,
+appProductivity,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Productivity,0,
+appSports,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Sports,0,
+appWeather,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Weather,0,
+appBrowser,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Browser,0,
+appVOIP,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-VOIP,0,
+appDating,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Dating,0,
+appMessaging,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Messaging,0,
+appMobilePayment,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Mobile payment,0,
+appEducation,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Education,0,
+appTickets,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Tickets,0,
+appReservations,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Reservations,0,
+appHobby,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Special interest/Hobby apps,0,
+appNA ,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-I do not use any of the above types of apps on a frequent (everyday/weekly) basis.,0,
+appUnsure,Q22 - What types of apps do you use frequently (everyday/weekly) on your smartphone?-Don't Know,1,Adds nothing to analysis.
+subsInternet,Q26 - Which of the following subscriptions does your household purchase?-Home internet,0,
+subsLandline,Q26 - Which of the following subscriptions does your household purchase?-Landline telephone,0,
+subsMobileVoice,Q26 - Which of the following subscriptions does your household purchase?-Mobile voice (smartphone or basic mobile phone calling plan),0,
+subsMobileData,Q26 - Which of the following subscriptions does your household purchase?-Mobile data plan,0,
+subsStreamingVideo,Q26 - Which of the following subscriptions does your household purchase?-Streaming video service,0,
+subsStreamingMusic,Q26 - Which of the following subscriptions does your household purchase?-Streaming music service,0,
+subsGaming,Q26 - Which of the following subscriptions does your household purchase?-Gaming,0,
+subsNews,Q26 - Which of the following subscriptions does your household purchase?-News/Newspaper (print or digital),0,
+subsMagazine,Q26 - Which of the following subscriptions does your household purchase?-Magazine (print or digital),0,
+subsNA ,Q26 - Which of the following subscriptions does your household purchase?-None of the above,0,
+subsUnsure,Q26 - Which of the following subscriptions does your household purchase?-Don't Know,1,Adds nothing to analysis.
+subsValInternet,"Q36r2 - Home internet - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to r",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+subsValLandline,"Q36r3 - Landline telephone - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+subsValMobileVoice,"Q36r4 - Mobile voice - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish to ra",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+subsValMobileData,"Q36r5 - Mobile data plan - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the order you wish t",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+subsValGaming,"Q36r8 - Gaming - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicki",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+subsValNews,"Q36r9 - News/Newspaper (print or digital) - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+subsValMagazine,"Q36r10 - Magazine (print or digital) - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the orde",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
+willPayDoubleInternet,"Q29 - You said that you subscribe to home Internet access, how much more would you be willing to pay to receive double your download speed?",0,
+prefLiveShow,"Q37r1 - Attending live performances (sporting events, concerts, or stage (musical, dramatic, or other)) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ",3,"This could be interesting, but might be tricky to code for"
+prevMovie,"Q37r2 - Going to the movies - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections by clicking each item in",3,"This could be interesting, but might be tricky to code for"
+prevTV,"Q37r3 - Watching television (video content on any device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selec",3,"This could be interesting, but might be tricky to code for"
+prefMusic,"Q37r4 - Listening to music (using any device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections by cli",3,"This could be interesting, but might be tricky to code for"
+prefBook,"Q37r5 - Reading books (either physical books or via an e-book reader and/or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most",3,"This could be interesting, but might be tricky to code for"
+prefMagazine,"Q37r6 - Reading magazines (either printed or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections",3,"This could be interesting, but might be tricky to code for"
+prefNewspaper,"Q37r7 - Reading newspapers (either printed or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selection",3,"This could be interesting, but might be tricky to code for"
+prefRadio,"Q37r8 - Listening to the radio (any format and/or device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selec",3,"This could be interesting, but might be tricky to code for"
+prefVideoGames,"Q37r9 - Playing video games (handhelds, PC, console, mobile/cellular/smartphone, online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the",3,"This could be interesting, but might be tricky to code for"
+prefSocial,"Q37r10 - Using the Internet for social or personal interests - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your se",3,"This could be interesting, but might be tricky to code for"
+freqMovRentDVD,"QNEW19r1 - Rent a physical DVD/Blu-ray - Thinking about how you watch movies, how frequently do you do each of the following?",0,
+freqMovBuyDVD,"QNEW19r2 - Purchase a physical DVD/Blu-ray - Thinking about how you watch movies, how frequently do you do each of the following?",0,
+freqMovBuyDownload,"QNEW19r3 - Purchase digital video entertainment to download onto your device via online service - Thinking about how you watch movies, how frequently do you do each of the following?",0,
+freqMovRentDownload,"QNEW19r4 - Rent digital video entertainment where a digital file is downloaded to your device - Thinking about how you watch movies, how frequently do you do each of the following?",0,
+freqMovStream,"QNEW19r5 - Watch digital video entertainment via an online streaming service - Thinking about how you watch movies, how frequently do you do each of the following?",0,
+freqMovPayPerView,"QNEW19r6 - Purchase/rent a video via your television service provider's On-Demand or Pay-Per-View service (i.e., via a set-top-box) - Thinking about how you watch movies, how frequently do you do each of the following?",0,
+freqTVRentDVD,"QNEW20r1 - Rent a physical DVD/Blu-ray - Thinking about how you watch television programming, how frequently do you do each of the following?",0,
+freqTVBuyDVD,"QNEW20r2 - Purchase a physical DVD/Blu-ray - Thinking about how you watch television programming, how frequently do you do each of the following?",0,
+freqTVBuyDownload,"QNEW20r3 - Purchase digital video entertainment to download onto your device via online service - Thinking about how you watch television programming, how frequently do you do each of the following?",0,
+freqTVStream,"QNEW20r4 - Watch digital video entertainment via an online streaming service - Thinking about how you watch television programming, how frequently do you do each of the following?",0,
+freqTVPayPerView,"QNEW20r5 - Purchase/rent a video via your television service provider's On-Demand or Pay-Per-View service (i.e., via a set-top-box) - Thinking about how you watch television programming, how frequently do you do each of the following?",0,
+bingeWatch,"QNEW24 - Do you ever ""binge-watch"" television shows, meaning watching three or more episodes of a TV series in one sitting?",0,
+TVWhileReadWork,Q73r2 - Read for work and/or school - Which are things you typically do while watching your home television system?,0,
+TVWhileReadPleasure,Q73r3 - Read for pleasure - Which are things you typically do while watching your home television system?,0,
+TVWhileWeb,Q73r4 - Browse and surf the Web - Which are things you typically do while watching your home television system?,0,
+TVWhileMicroblog,Q73r5 - Microblogging - Which are things you typically do while watching your home television system?,0,
+TVWhileReadEmail,Q73r6 - Read email - Which are things you typically do while watching your home television system?,0,
+TVWhileWriteEmail,Q73r7 - Write email - Which are things you typically do while watching your home television system?,0,
+TVWhileText,Q73r8 - Text message - Which are things you typically do while watching your home television system?,0,
+TVWhileSocial,Q73r9 - Use a social network - Which are things you typically do while watching your home television system?,0,
+TVWhileCall,Q73r10 - Talk on the phone - Which are things you typically do while watching your home television system?,0,
+TVWhileBrowseProd,Q73r11 - Browse for products and services online - Which are things you typically do while watching your home television system?,0,
+TVWhilePurchaseProd,Q73r12 - Purchase products and services online - Which are things you typically do while watching your home television system?,0,
+TVWhileVideoGames,Q73r13 - Play video games - Which are things you typically do while watching your home television system?,0,
+payNewsForNoAds,"Q39r1 - I would rather pay for news online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A.""",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+paySportsforNoAds,"Q39rNEW1 - I would rather pay for sports information online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, c",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+payGamesForNoAds,"Q39rNEW2 - I would rather pay for games online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A.""",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+PayMusicForNoAds,"Q39rNEW3 - I would rather pay for music online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A.""",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+PayTVForNoAds,"Q39rNEW4 - I would rather pay for TV shows online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+PayMovieForNoAds,"Q39rNEW5 - I would rather pay for movies online in exchange for not being exposed to advertisements. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, choose ""N/A.""",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+infoForTargetAds,"Q39r2 - I would be willing to provide more personal information online if that meant I could receive advertising more targeted to my needs and interests. - Using the scale below, please indicate how much you agree or disagree with the following statements.",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+infoIDTheft,"Q39r3 - By providing more personal information online, I am worried about becoming a victim of identity theft. - Using the scale below, please indicate how much you agree or disagree with the following statements. If the question does not apply to you, cho",1,"These are other similar outcome variables to our target. Given that these are more output than input related, may be hard to glean insights from them."
+getNews,Q89 - Which of the following is your most frequently used mechanism to get news?,0,
+target_willing,target_willing,0,
+year,year,0,
