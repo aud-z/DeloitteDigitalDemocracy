@@ -1,4 +1,4 @@
-New,Orig,Drop?,Rationale
+New,Orig,Drop,Rationale
 recNo,record - Record number,1,"Administrative, not useful"
 age,"Q1r1 - To begin, what is your age?",0,
 gender,Q4 - What is your gender?,0,
