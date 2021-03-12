@@ -2,7 +2,7 @@ New,Orig,Drop,Rationale
 recNo,record - Record number,1,"Administrative, not useful"
 age,"Q1r1 - To begin, what is your age?",0,
 gender,Q4 - What is your gender?,0,
-ageGrp,age - you are...,0,
+ageGrp,age - you are...,1,Redundant info as we already have the age column
 state,Q2 - In which state do you currently reside?,1,"Going to use region instead, requires less encoding so easier way to work with the data"
 region,region - Region,0,
 status,QNEW3 - What is your employment status?,0,
@@ -139,8 +139,8 @@ subsValNews,"Q36r9 - News/Newspaper (print or digital) - Of the services you ind
 subsValMagazine,"Q36r10 - Magazine (print or digital) - Of the services you indicated your household purchases, which [totalcount] do you value the most?Please rank the top [totalcount], with ""1"" being the most valued. Make your selections by clicking each item in the orde",1,"Most have large null values. Also values conditional upon others, so a 2 for one user doesn't mean the same as a 2 for another user. "
 willPayDoubleInternet,"Q29 - You said that you subscribe to home Internet access, how much more would you be willing to pay to receive double your download speed?",0,
 prefLiveShow,"Q37r1 - Attending live performances (sporting events, concerts, or stage (musical, dramatic, or other)) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ",3,"This could be interesting, but might be tricky to code for"
-prevMovie,"Q37r2 - Going to the movies - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections by clicking each item in",3,"This could be interesting, but might be tricky to code for"
-prevTV,"Q37r3 - Watching television (video content on any device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selec",3,"This could be interesting, but might be tricky to code for"
+prefMovie,"Q37r2 - Going to the movies - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections by clicking each item in",3,"This could be interesting, but might be tricky to code for"
+prefTV,"Q37r3 - Watching television (video content on any device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selec",3,"This could be interesting, but might be tricky to code for"
 prefMusic,"Q37r4 - Listening to music (using any device) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections by cli",3,"This could be interesting, but might be tricky to code for"
 prefBook,"Q37r5 - Reading books (either physical books or via an e-book reader and/or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most",3,"This could be interesting, but might be tricky to code for"
 prefMagazine,"Q37r6 - Reading magazines (either printed or online) - For the following types of entertainment activities, please rank your top three, with ""1"" being the most preferred.Please rank the top three, with â€œ1â€ being the most preferred. Make your selections",3,"This could be interesting, but might be tricky to code for"
